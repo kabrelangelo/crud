@@ -52,6 +52,6 @@
         @endforeach
     </table>
     <div class="d-flex justify-content-center pagination-lg">
-    {!! $produits->links('pagination::bootstrap-4') !!}
+        {{-- {!! $produits->links('pagination::bootstrap-4') !!}  --}}
       </div>
 @endsection
