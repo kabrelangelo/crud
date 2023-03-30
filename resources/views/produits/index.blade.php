@@ -4,7 +4,7 @@
     <div class="row">
         <div class="col-lg-12 margin-tb">
             <div class="float-start">
-                <h2>Exemple d'une application CRUD Laravel 8 - apcpedagogie.com</h2>
+                <h2>Petite application de CRUD avec Laravel</h2>
             </div>
             <div class="float-end">
                 <a class="btn btn-outline-success" href="{{ route('produits.create') }}"> Créer un nouveau produit</a>
